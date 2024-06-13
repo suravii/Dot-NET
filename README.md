@@ -1,2 +1,2 @@
 # Dot-NET
-Dot NET Basics
+Dot NET Basics for lab
